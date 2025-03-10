@@ -16,7 +16,7 @@ int main(){
     }
     int result[n];
     RevArr(n,arr,result);
-    for (int i=0;i<n;i++){
+    for (int i=0;i<n;i++){  
         printf("%d ",result[i]);    
     }
     
