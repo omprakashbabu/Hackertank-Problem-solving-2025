@@ -8,7 +8,7 @@ int ArraySum(int arr[], int n){
     return sum;
 }
 
-int main(){
+int main(){ 
     int n;
     scanf("%d", &n);
     int ar[n]; // Variable-length array (VLA)
